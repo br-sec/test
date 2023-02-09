@@ -8,3 +8,6 @@ https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&co
 
 # sdk
 https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe
+
+# settings.xml
+https://raw.githubusercontent.com/br-sec/test/master/settings.xml
