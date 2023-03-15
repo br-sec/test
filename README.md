@@ -18,3 +18,9 @@ https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe
 
 # settings.xml
 https://raw.githubusercontent.com/br-sec/test/master/settings.xml
+
+# python download
+https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe
+
+# Pycharm ide
+https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
