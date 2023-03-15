@@ -22,5 +22,5 @@ https://raw.githubusercontent.com/br-sec/test/master/settings.xml
 # python download
 https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe
 
-# Pycharm ide
+# PyCharm ide
 https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
