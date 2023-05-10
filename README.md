@@ -7,8 +7,8 @@ C:\cygwin64\bin
 mkpasswd -l -c >/etc/passwd && mkgroup -l -c >/etc/group && cp /etc/nsswitch.conf /etc/nsswitch.conf.bak && echo 'passwd: files' >/etc/nsswitch.conf && echo 'group: files' >>/etc/nsswitch.conf
 
 # copy gtest
-from cygwin terminal
-$ cp /usr/local/lib/libgtest* /usr/lib/
+from cygwin terminal  
+$ cp /usr/local/lib/libgtest* /usr/lib/  
 $ cp /usr/local/lib/libgmock* /usr/lib/
 
 # git scm
