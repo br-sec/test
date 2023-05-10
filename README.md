@@ -1,9 +1,15 @@
 # test
 
-# cygwin speedup
+# 환경 변수 (Path) 추가
+C:\cygwin64\bin
 
+# cygwin speedup
 mkpasswd -l -c >/etc/passwd && mkgroup -l -c >/etc/group && cp /etc/nsswitch.conf /etc/nsswitch.conf.bak && echo 'passwd: files' >/etc/nsswitch.conf && echo 'group: files' >>/etc/nsswitch.conf
 
+# copy gtest
+from cygwin terminal
+$ cp /usr/local/lib/libgtest* /usr/lib/
+$ cp /usr/local/lib/libgmock* /usr/lib/
 
 # git scm
 https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-64-bit.exe
