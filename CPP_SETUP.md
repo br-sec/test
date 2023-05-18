@@ -55,7 +55,7 @@ https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2
         lrwxrwxrwx 1 CORP+andy.shlee CORP+Domain Users 18 Jun 22 16:07 /etc/alternatives/python -> /usr/bin/python3.6
         lrwxrwxrwx 1 CORP+andy.shlee CORP+Domain Users 18 Jun 22 16:11 /etc/alternatives/python3 -> /usr/bin/python3.6
         ```
-    * cygwin
+    * cygwin speedup   
     mkpasswd -l -c >/etc/passwd && mkgroup -l -c >/etc/group && cp /etc/nsswitch.conf /etc/nsswitch.conf.bak && echo 'passwd: files' >/etc/nsswitch.conf && echo 'group: files' >>/etc/nsswitch.conf   
     
 
